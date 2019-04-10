@@ -1,6 +1,6 @@
 #!/usr/env bash
 
-pkg_origin=msd77
+pkg_origin=dmbettinger
 pkg_name=mytutorialapp
 pkg_version=0.1.0
 pkg_maintainer="Your Name <your email address>"
